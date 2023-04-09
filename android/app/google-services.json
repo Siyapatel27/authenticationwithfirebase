@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "265677503460",
+    "project_id": "siyaauthproject",
+    "storage_bucket": "siyaauthproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265677503460:android:5306efe481b0a134f3a5f1",
+        "android_client_info": {
+          "package_name": "com.example.loginauthbysiyaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265677503460-rvg29m6m5g9g61kstk0ins1rvkp8ds6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlsMIKZWC7BHC8Obm5-hqbJ-zp0zmktfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265677503460-rvg29m6m5g9g61kstk0ins1rvkp8ds6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
